@@ -4,7 +4,7 @@
 
 ## 🚀 Demonstração
 
-[Clique aqui](https://micheleambrosio.github.io/coffee-shop-bootstrap-dio/) para acessar o resultado final do projeto.
+[Clique aqui](https://github.com/maisamendestech/Coffee-Shop-Bootstrap.git) para acessar o resultado final do projeto.
 
 ## 🛠️ Tecnologias Utilizadas
 
